@@ -1,0 +1,8 @@
+CargoID,Descricao,SalarioBase,Nivel,Beneficios
+1,Estagiário de TI,1500.00,Estagiário,Vale-transporte
+2,Estagiário de Marketing,1400.00,Estagiário,Vale-transporte
+3,Analista de Vendas,4000.00,Júnior, Vale-refeição
+4,Analista de Recursos Humanos,3800.00,Júnior,Vale-transporte
+5,Desenvolvedor Front-end,3500.00,Júnior,Vale-refeição
+6,Desenvolvedor Back-end,5000.00,Pleno,Vale-refeição
+7,Desenvolvedor Sênior,7000.00,Sênior,Plano de saúde

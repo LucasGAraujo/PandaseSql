@@ -1,0 +1,23 @@
+DependenteId,FuncionarioId,Nome,Parentesco,DataNascimento
+1,1,Maria Silva,Filha,2010-03-15
+2,1,Josefa Silva,Filha,2015-08-20
+3,2,Ana Santos,Filha,2008-10-10
+4,2,Pedro Santos,Filho,2012-05-25
+5,3,Carla Oliveira,Filha,2011-07-12
+6,3,Rafael Oliveira,Filho,2014-02-28
+7,4,Amanda Costa,Filha,2009-04-05
+8,4,Lucas Costa,Filho,2013-09-17
+9,5,Mariana Pereira,Filha,2010-01-20
+10,5,Gabriel Pereira,Filho,2016-06-30
+11,6,Juliana Santos,Filha,2012-11-08
+12,6,Thiago Santos,Filho,2017-04-12
+13,7,Isabela Lima,Filha,2007-09-25
+14,7,Felipe Lima,Filho,2011-12-03
+15,8,Larissa Ferreira,Filha,2008-08-14
+16,8,Vinícius Ferreira,Filho,2013-03-22
+17,9,Natália Sousa,Filha,2011-06-18
+18,9,Daniel Sousa,Filho,2015-11-09
+19,10,Fernanda Martins,Filha,2009-02-10
+20,10,Bruno Martins,Filho,2014-07-07
+21,10,Bruunoooooo Martins,Filha,2014-07-07
+
